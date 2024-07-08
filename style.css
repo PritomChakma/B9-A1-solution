@@ -132,3 +132,44 @@ body {
   height: 464.65px;
   margin-top: 50px;
 }
+/* third section end */
+
+/* fourth section start */
+.fourth-container {
+  width: 1320px;
+  height: 482px;
+  margin: 0 auto;
+  margin-top: 80px;
+  background-color: rgba(255, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fourth-text-container {
+  width: 549px;
+  height: 168px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+.text-color {
+  color: rgb(255, 0, 0);
+}
+.fourth-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 167px;
+  height: 56px;
+}
+.fourth-button button {
+  background-color: rgb(255, 0, 0);
+  color: white;
+}
