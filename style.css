@@ -173,3 +173,83 @@ body {
   background-color: rgb(255, 0, 0);
   color: white;
 }
+/* fourth container end */
+
+/* fifth container start */
+
+.fifth-container {
+  width: 1320px;
+  height: 463px;
+  margin: 0 auto;
+  margin-top: 80px;
+  display: flex;
+  background-color: rgba(255, 0, 0, 0.05);
+}
+.fifth-left-contain {
+  width: 33.3%;
+  height: 463px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.fifth-center-contain {
+  width: 33.3%;
+  height: 463px;
+  margin: 0 auto;
+}
+
+.fifth-right-contain {
+  width: 33.3%;
+  height: 463px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.fifth-left-contain h4 {
+  font-weight: 500px;
+  font-size: 24px;
+  color: rgb(255, 0, 0);
+}
+.fifth-left-contain h2 {
+  font-weight: 900px;
+  font-size: 48px;
+}
+.fourth-left-contain {
+  font-weight: 400px;
+  font-size: 2px;
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+}
+.fifth-left-contain h4 h2 {
+  margin-right: ;
+}
+.fifth-center-contain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.fifth-right-contain h3 {
+  color: rgb(255, 0, 0);
+  font-size: 48px;
+  font-weight: 700px;
+  margin-right: auto;
+}
+.fifth-right-contain {
+  color: rgba(7, 2, 17, 0.6);
+  font-weight: 400px;
+  font-size: 20px;
+}
+.fifth-right-contain img {
+  margin-right: auto;
+}
